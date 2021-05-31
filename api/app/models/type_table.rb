@@ -1,0 +1,2 @@
+class TypeTable < ApplicationRecord
+end
